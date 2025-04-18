@@ -1,0 +1,3 @@
+ste é o arquivo2.txt, mais uma alteração no meu projeto para o desafio de Git Rebase.
+
+O objetivo é organizar os commits para garantir que o histórico seja limpo, com um propósito claro e fácil de entender para todos os membros da equipe.
