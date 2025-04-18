@@ -1,0 +1,2 @@
+Segunda alteração
+Criando o arquivo1.txt para o desafio de Git Rebase.
